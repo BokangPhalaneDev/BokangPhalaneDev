@@ -1,4 +1,4 @@
-# My Portfolio – Full-Stack, ML & Blockchain Projects
+# My Portfolio – Full-Stack, ML & Blockchain 
 
 **A collection of my full-stack, machine learning, and blockchain projects — including an AI plant classifier, an LMS with chatbot, and a crypto trading dashboard.**
 
